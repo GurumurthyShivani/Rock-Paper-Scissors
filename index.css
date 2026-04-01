@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    zoom: 0.8;
+    /* padding-top: 100px; */
+    /* padding-left: 700px; */
+    /* border: solid white; */
+}
+.box{
+    height: 550px;
+    width: 500px;
+    /* padding-top: 100px; */
+    margin-left: 550px;
+    /* border: solid white; */
+    
+}
+.title{
+    margin-left: 60px;
+    color: #800000;
+    font-weight: bolder;
+    
+}
+.rock,.paper,.scissors{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    border: none;
+    border: solid wheat;
+    border-radius: 50%;
+    background-color: darkcyan;
+    margin-left: 35px;
+}
+.js-reset,.js-autoplay{
+    margin-left: 40px;
+    height: 50px;
+    width: 170px;
+    font-size: 20px;
+    background-color: rgb(194, 181, 181);
+    border: none;
+    border: solid 1px black;
+}
+.js-result,.js-moves{
+    font-size: 30px;
+    font-weight: bold;
+    color:#1a0080;
+}
+.js-score{
+    color: #00804d;
+    font-weight: bold;
+}
+.scroll{
+    margin-top: 100px;
+    font-size: 15px;
+    color: grey; 
+}
